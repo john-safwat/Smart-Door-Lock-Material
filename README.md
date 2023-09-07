@@ -28,7 +28,7 @@
 
  ## There are Some Reference Projects and Articles We Learned a lot From 
 
- * IoT Based Home Security System Using Raspberry Pi-3
+ * IoT Based Home Security System Using Raspberry Pi-3 - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/IJRAR190O064.pdf)
 
     * IoT Based Home Security System Using ```Raspberry Pi-3!``` 
 This article provides valuable insights on how to use Raspberry Pi-3 to create a secure home environment. 
