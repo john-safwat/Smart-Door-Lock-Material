@@ -21,20 +21,24 @@
 
 <div style ="display : flex">
  <img src="https://i.ibb.co/M8drFGh/Untitled-1.png" alt="Untitled-1" border="0" width = "200px" style = "border-radius : 15px"> 
-<p style = "margin : 0px 20px ; font-size : 16px ;">This project builds a system to help people feel safe at their homes. The system helps people to know who is behind the door. This system home owner can access the Mobile App with username and password and then if any guest come to his/her home the device will capture an image of his/her using Raspberry pi and send it to the owner by wifi, then the owner will decide either to open the door or not. Finally, this system will increase safety and privacy, save time. Help the elderly, employees and people with special needs</p>
+<p style = "margin : 0px 20px ; font-size : 16px ; display : inline">This project builds a system to help people feel safe at their homes. The system helps people to know who is behind the door. This system home owner can access the Mobile App with username and password and then if any guest come to his/her home the device will capture an image of his/her using Raspberry pi and send it to the owner by wifi, then the owner will decide either to open the door or not. Finally, this system will increase safety and privacy, save time. Help the elderly, employees and people with special needs</p>
  </div>
 
  <br>
 
+---------------
  ## There are Some Reference Projects and Articles We Learned a lot From 
 
  * IoT Based Home Security System Using Raspberry Pi-3 - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/IJRAR190O064.pdf)
 
     * IoT Based Home Security System Using ```Raspberry Pi-3!``` 
 This article provides valuable insights on how to use Raspberry Pi-3 to create a secure home environment. 
-    * This System Recognize any Visitor When it Near To the Door Using ```PIR Sensor``` When Visitor Come Closer To the Door The System Capture an Image Using The ```Pi Camera``` Which Installed To The ```Raspberry Pi``` Then the Raspberry Pi Store The Image on Micro SD and Analysis The Image Using ```YOLO``` algorithm 
-    * After Analyzing The Image The System Send Email With The Image and recorded Video and Audio To the Owner 
 
+    * This System Recognize any Visitor When it Near To the Door Using ```PIR Sensor``` When Visitor Come Closer To the Door The System Capture an Image Using The ```Pi Camera``` Which Installed To The ```Raspberry Pi``` Then the Raspberry Pi Store The Image on Micro SD and Analysis The Image Using ```YOLO``` algorithm 
+
+    * After Analyzing The Image The System Send Email With The Image and recorded Video and Audio To the Owner 
+<br>
+<br>
 * Smart Doorbell Using Raspberry Pi and Pi Camera - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/Smart%20Doorbell%20Using%20Raspberry%20Pi%20and%20Pi%20Camera.pdf)
 
     *  Smart Doorbell Using Raspberry Pi and Pi Camera
@@ -43,6 +47,39 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
     * The Raspberry Pi receives a doorbell signal and passes it to a camera, which captures an image and checks if it exists in the database.then the user decides whether to let him in or not.
 
     * will use : Raspberry pi - power supply - pi camera - internet - door bell - solenoid lock - phone - Application
+<br>
+<br>
+* Security System for Visitor Validation at Entrance using Raspberry Pi and Elliptical Curve Digital Signature - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/Security_System_for_Visitor_Validation_at_Entrance.pdf) 
+    * Hardware setup
+        * Connecting the Raspberry Pi‟s general-purpose input output ports (GPIO) to a tactile  switch We connect one side of the switch to an 
+            input pin on the Raspberry Pi using pin 18 general purpose input output ports (GPIO) The other side of the switch is connected to 
+            ground using pin 6 using jumper wires. when the button is pressed program runs that reads the state of the button.
+    * conclusion
+        * This paper introduces an IoT security mechanism using ```ECDSA``` for reliable and cost-effective data verification. It utilizes the ```MIRACL crypto library```, enhancing existing methods with digital signatures for data integrity through private and public key verification.
+
+<br>
+<br>
+
+* IoT-Based_Smart_Doorbell_Using_Raspberry_Pi.pdf - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/IoT-Based%20Smart%20Doorbell%20Using%20Raspberry%20Pi.pdf)
+
+    * This system ensures security when the occupants leave home; it activates when needed, transmitting information about potential intruders over IoT.
+    * The proposed system
+        1. uses switch sensors placed under floor tiles to detect pressure, enhancing efficiency and accuracy. These sensors can measure pressure on tiles, avoiding temperature constraints, and can be executed using Python scripts using OpenCV.
+        2. Collecting input signal from the sensor to Raspberry pi Controller. 
+        3. Generating rotation in the servo motor based on the signal received from the raspberry Pi
+        4. Capturing Video frames and transmitting to the user over network and enabling alarm
+        
+    * This System Depend on ```Piezoelectric Sensor``` Instead of Using ```PIR``` Because It can withstand high temperature (```500°C```)
+
+<br>
+<be>
+
+* Raspberry Pi based Smart Home for Deployment in the Smart Grid - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/PaperinIJCA.pdf)
+
+    * This system triggers an email notification with a "Door Open" message and a picture when a door with a reed switch is opened, alerting the owner of the breach and sounding an alarm. Configuration details are managed via Python scripts.
+
+
+------------
 
 ## Raspberry Pi Model 
 
@@ -52,10 +89,6 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
     * Raspberry Pi Zero 2 W is perfect for a range of smart home applications and other IoT projects. From security cameras to Bluetooth speakers, zero 2 W has the tiny form factor and impressive power that make it an ideal computer for your projects.
     * The Raspberry Pi Zero 2 is capable of playing retro games with Recalbox or Retropie, and can also play modern games with Steam Link. You can also make many fun projects such as drones and a Magic Mirror
             <br>        <br>
-        <br>        <br>
-
-
-
 * Pico 
 
     * The Raspberry Pi Pico series is a range of tiny, fast, and versatile boards built using RP2040, the flagship microcontroller chip designed by Raspberry Pi in the UK
