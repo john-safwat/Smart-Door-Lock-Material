@@ -80,9 +80,13 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
 
     * Connect wirelessly :
         * Network your Pico for a complete IoT solution. Raspberry Pi Pico W comes with a fully certified module on board featuring 2.4GHz 802.11n wireless LAN and Bluetooth 5.2, making it the perfect solution for IoT applications and projects requiring wireless communication
+                <br>        <br>
+
     
     * Debugging with ease :
         * The Raspberry Pi Debug Probe is an all-in-one USB-to-debug kit that provides all the necessary hardware and cables for easy, solderless, plug-and-play debugging, making it easy to use a Raspberry Pi Pico with non-Raspberry Pi platforms such as Windows and Mac, and with typical Linux computers.
+                <br>        <br>
+
 
     * Good For : IoT applications and projects requiring wireless communication
      <br>        <br>
@@ -101,6 +105,8 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
         * Your new Raspberry Pi 4 has upgraded USB capacity: along with two USB 2 ports you'll find two USB 3 ports, which can transfer data up to ten times faster.
     * Your choice of RAM :
         * We're making different variants of the Raspberry Pi 4 available, depending on how much RAM you need — 1GB, 2GB, 4GB, or 8GB.
+                <br>        <br>
+
     
     * Good For :
         * learning PC for the kids, a media center, a web server, a game emulation machine or as the brains of a robot or IoT device
@@ -168,6 +174,8 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
         * Lower power consumption. By replacing linear regulators with switching ones we’ve reduced power consumption by between 0.5W and 1W.
         * Better audio. The audio circuit incorporates a dedicated low-noise power supply.
         * Neater form factor. We’ve aligned the USB connectors with the board edge, moved composite video onto the 3.5mm jack, and added four squarely-placed mounting holes.
+                <br>        <br>
+
     * Good For :
         * word-processing, spreadsheets, high-definition video, games, and programming
         <br>        <br>
