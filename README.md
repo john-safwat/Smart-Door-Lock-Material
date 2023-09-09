@@ -34,3 +34,12 @@
 This article provides valuable insights on how to use Raspberry Pi-3 to create a secure home environment. 
     * This System Recognize any Visitor When it Near To the Door Using ```PIR Sensor``` When Visitor Come Closer To the Door The System Capture an Image Using The ```Pi Camera``` Which Installed To The ```Raspberry Pi``` Then the Raspberry Pi Store The Image on Micro SD and Analysis The Image Using ```YOLO``` algorithm 
     * After Analyzing The Image The System Send Email With The Image and recorded Video and Audio To the Owner 
+
+* Smart Doorbell Using Raspberry Pi and Pi Camera - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/Smart%20Doorbell%20Using%20Raspberry%20Pi%20and%20Pi%20Camera.pdf)
+
+    *  Smart Doorbell Using Raspberry Pi and Pi Camera
+        This article presents a low-cost Raspberry Pi device for home automation, utilizing a sensor to detect physical movement and record visitor images. The project uses face recognition systems like ```Markov Hidden Model``` and geometric matching for face detection, ensuring accurate and practical applications. 
+
+    * The Raspberry Pi receives a doorbell signal and passes it to a camera, which captures an image and checks if it exists in the database.then the user decides whether to let him in or not.
+
+    * will use : Raspberry pi - power supply - pi camera - internet - door bell - solenoid lock - phone - Application
