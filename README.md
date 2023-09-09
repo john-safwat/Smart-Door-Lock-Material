@@ -39,6 +39,7 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
     * After Analyzing The Image The System Send Email With The Image and recorded Video and Audio To the Owner 
 <br>
 <br>
+
 * Smart Doorbell Using Raspberry Pi and Pi Camera - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/Smart%20Doorbell%20Using%20Raspberry%20Pi%20and%20Pi%20Camera.pdf)
 
     *  Smart Doorbell Using Raspberry Pi and Pi Camera
@@ -49,6 +50,7 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
     * will use : Raspberry pi - power supply - pi camera - internet - door bell - solenoid lock - phone - Application
 <br>
 <br>
+
 * Security System for Visitor Validation at Entrance using Raspberry Pi and Elliptical Curve Digital Signature - [View Paper](https://github.com/john-safwat/Smart-Door-Lock-Material/blob/main/Articales/6-9-2023/Security_System_for_Visitor_Validation_at_Entrance.pdf) 
     * Hardware setup
         * Connecting the Raspberry Pi‟s general-purpose input output ports (GPIO) to a tactile  switch We connect one side of the switch to an 
