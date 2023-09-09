@@ -43,3 +43,5 @@ This article provides valuable insights on how to use Raspberry Pi-3 to create a
     * The Raspberry Pi receives a doorbell signal and passes it to a camera, which captures an image and checks if it exists in the database.then the user decides whether to let him in or not.
 
     * will use : Raspberry pi - power supply - pi camera - internet - door bell - solenoid lock - phone - Application
+    
+    * The Raspberry Pi receives a doorbell signal and passes it to a camera, which captures an image and checks if it exists in the database.then the user decides whether to let him in or not.
